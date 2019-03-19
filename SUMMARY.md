@@ -25,5 +25,6 @@
   * [美丽人生1800\(50克16支装）](chapter1/mei-li-ren-sheng-1800-50-ke-16-zhi-zhuang-ff09.md)
   * [禧爱金线莲](chapter1/xi-ai-jin-xian-lian.md)
 * [石斛](shi-hu.md)
-  * [石斛 水草枫斗](shi-hu/shi-hu-shui-cao-feng-dou.md)
+  * [水草枫斗](shi-hu/shi-hu-shui-cao-feng-dou.md)
+  * [紫皮枫斗](shi-hu/shi-hu-zi-pi-feng-dou.md)
 
