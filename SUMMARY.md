@@ -12,6 +12,7 @@
   * [燕安居纯净燕窝试管装](chapter1/yan-an-ju-chun-jing-yan-wo-shi-guan-zhuang.md)
   * [燕安居纯净燕窝试管装（3g\*20管）](chapter1/yan-an-ju-chun-jing-yan-wo-shi-guan-zhuang-ff08-3g-20-guan-ff09.md)
 * [参类](ren-can-lei.md)
+  * [红参片](ren-can-lei/hong-can-pian.md)
 * [金线莲](jin-xian-lian.md)
   * [金线莲炖煮燕窝盒](chapter1/jin-xian-lian-tun-zhu-yan-wo-he.md)
   * [金线莲泡饮燕窝盒](chapter1/jin-xian-lian-pao-yin-yan-wo-he.md)
