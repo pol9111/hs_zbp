@@ -11,7 +11,7 @@
   * [燕安居靓燕](chapter1/yan-an-ju-jing-yan.md)
   * [燕安居纯净燕窝试管装](chapter1/yan-an-ju-chun-jing-yan-wo-shi-guan-zhuang.md)
   * [燕安居纯净燕窝试管装（3g\*20管）](chapter1/yan-an-ju-chun-jing-yan-wo-shi-guan-zhuang-ff08-3g-20-guan-ff09.md)
-* [人参类](ren-can-lei.md)
+* [参类](ren-can-lei.md)
 * [金线莲](jin-xian-lian.md)
   * [金线莲炖煮燕窝盒](chapter1/jin-xian-lian-tun-zhu-yan-wo-he.md)
   * [金线莲泡饮燕窝盒](chapter1/jin-xian-lian-pao-yin-yan-wo-he.md)
@@ -23,5 +23,7 @@
   * [福悦2250](chapter1/fu-yue-2250.md)
   * [美丽人生（25克8支装）](chapter1/mei-li-ren-sheng-ff08-25-ke-8-zhi-zhuang-ff09.md)
   * [美丽人生1800\(50克16支装）](chapter1/mei-li-ren-sheng-1800-50-ke-16-zhi-zhuang-ff09.md)
+  * [禧爱金线莲](chapter1/xi-ai-jin-xian-lian.md)
 * [石斛](shi-hu.md)
+  * [石斛 水草枫斗](shi-hu/shi-hu-shui-cao-feng-dou.md)
 
