@@ -28,4 +28,5 @@
   * [水草枫斗](shi-hu/shi-hu-shui-cao-feng-dou.md)
   * [紫皮枫斗](shi-hu/shi-hu-zi-pi-feng-dou.md)
   * [二级石斛](shi-hu/er-ji-shi-hu.md)
+  * [紫皮枫斗一等](shi-hu/zi-pi-feng-dou-2014-yi-deng.md)
 
