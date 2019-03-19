@@ -16,5 +16,8 @@
   * [金线莲炖煮燕窝盒](chapter1/jin-xian-lian-tun-zhu-yan-wo-he.md)
   * [金线莲泡饮燕窝盒](chapter1/jin-xian-lian-pao-yin-yan-wo-he.md)
   * [金线莲炖煮简装](chapter1/jin-xian-lian-tun-zhu-jian-zhuang.md)
+  * [金线莲泡饮简装](chapter1/jin-xian-lian-pao-yin-jian-zhuang.md)
+  * [福悦750](chapter1/fu-yue-750.md)
+  * [福吉1200](chapter1/fu-ji-1200.md)
 * [石斛](shi-hu.md)
 
