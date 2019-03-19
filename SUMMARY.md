@@ -19,5 +19,9 @@
   * [金线莲泡饮简装](chapter1/jin-xian-lian-pao-yin-jian-zhuang.md)
   * [福悦750](chapter1/fu-yue-750.md)
   * [福吉1200](chapter1/fu-ji-1200.md)
+  * [福悦1500](chapter1/fu-yue-1500.md)
+  * [福悦2250](chapter1/fu-yue-2250.md)
+  * [美丽人生（25克8支装）](chapter1/mei-li-ren-sheng-ff08-25-ke-8-zhi-zhuang-ff09.md)
+  * [美丽人生1800\(50克16支装）](chapter1/mei-li-ren-sheng-1800-50-ke-16-zhi-zhuang-ff09.md)
 * [石斛](shi-hu.md)
 
