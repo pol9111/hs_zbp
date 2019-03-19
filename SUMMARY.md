@@ -17,6 +17,7 @@
   * [西洋参 4\#参片·单瓶](ren-can-lei/xi-yang-can-4-can-7247b7-dan-ping.md)
   * [西洋参 0\#参片](ren-can-lei/xi-yang-can-0-can-pian.md)
   * [西洋参 120枝泡](ren-can-lei/xi-yang-can-120-zhi-pao.md)
+  * [西洋参·特大泡](ren-can-lei/xi-yang-53c2b7-te-da-pao.md)
 * [金线莲](jin-xian-lian.md)
   * [金线莲炖煮燕窝盒](chapter1/jin-xian-lian-tun-zhu-yan-wo-he.md)
   * [金线莲泡饮燕窝盒](chapter1/jin-xian-lian-pao-yin-yan-wo-he.md)
