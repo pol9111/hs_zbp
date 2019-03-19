@@ -3,8 +3,6 @@
 * [Introduction](README.md)
 * [燕窝类](chapter1.md)
   * [AA级白燕80g](chapter1/aaji-bai-yan-80g.md)
-  * [金线莲炖煮燕窝盒](chapter1/jin-xian-lian-tun-zhu-yan-wo-he.md)
-  * [金线莲泡饮燕窝盒](chapter1/jin-xian-lian-pao-yin-yan-wo-he.md)
   * [纯净燕碎](chapter1/chun-jing-yan-sui.md)
   * [纯净燕角](chapter1/chun-jing-yan-jiao.md)
   * [纯净燕窝试管装](chapter1/chun-jing-yan-wo-shi-guan-zhuang.md)
@@ -15,5 +13,8 @@
   * [燕安居纯净燕窝试管装（3g\*20管）](chapter1/yan-an-ju-chun-jing-yan-wo-shi-guan-zhuang-ff08-3g-20-guan-ff09.md)
 * [人参类](ren-can-lei.md)
 * [金线莲](jin-xian-lian.md)
+  * [金线莲炖煮燕窝盒](chapter1/jin-xian-lian-tun-zhu-yan-wo-he.md)
+  * [金线莲泡饮燕窝盒](chapter1/jin-xian-lian-pao-yin-yan-wo-he.md)
+  * [金线莲炖煮简装](chapter1/jin-xian-lian-tun-zhu-jian-zhuang.md)
 * [石斛](shi-hu.md)
 
